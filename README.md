@@ -8,16 +8,16 @@
    - Скачайте Python с [python.org](https://www.python.org/).
    - Установите Pygame с помощью следующей команды:
     
-     pip install pygame
+     ```pip install pygame```
      
 2. Склонируйте или скачайте этот репозиторий:
   
-   git clone <url-репозитория>
-   cd <имя-репозитория>
+   ```git clone <url-репозитория>
+   cd <имя-репозитория>```
    
 3. Запустите игру:
   
-   python snake_game.py
+   ```python snake_game.py```
    
 ## Как играть
 
